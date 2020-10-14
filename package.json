@@ -1,21 +1,13 @@
 {
-  "name": "client_assignment",
+  "name": "deployed",
   "version": "1.0.0",
-  "description": "IT Worker Template by Bootstrapious -  https://bootstrapious.com",
+  "description": "assignment 1",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/utkarsh8021/client_assignment.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/utkarsh8021/client_assignment/issues"
-  },
-  "homepage": "https://github.com/utkarsh8021/client_assignment#readme",
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "ejs": "^3.1.5",
